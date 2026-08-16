@@ -1,0 +1,12 @@
+{
+  "name": "bedrock-aternos-bot",
+  "version": "1.0.0",
+  "description": "Minecraft Bedrock bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "bedrock-protocol": "^3.57.0"
+  }
+}
